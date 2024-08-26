@@ -7,7 +7,7 @@ To install the project, follow these steps:
 
 1. Clone the repository to your local machine.
         ```shell
-        git clone https://github.com/your-username/your-repo.git
+        git clone https://github.com/kikf/Youtube-downloader.git
         ```
 
 2. Navigate to the project directory.
