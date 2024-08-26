@@ -50,3 +50,11 @@ To use the project, follow these steps:
 ![Video downloader](/img/video.png)
 
 Any suggest or fix bug/error please help. This is a small project , so enjoy it :D
+
+
+On this project are using:
+
+- [progress-estimator](https://www.npmjs.com/package/progress-estimator)
+- [youtube-dl-exec](https://www.npmjs.com/package/youtube-dl-exec)
+- [propmts](https://www.npmjs.com/package/prompts)
+- [youtube-search-api](https://www.npmjs.com/package/youtube-search-api)

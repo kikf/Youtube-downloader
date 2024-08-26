@@ -1,4 +1,3 @@
-const fs = require('fs')
 const logger = require('progress-estimator')()
 const youtubedl = require('youtube-dl-exec')
 const prompts = require('prompts');
