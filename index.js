@@ -16,8 +16,8 @@ console.clear()
        choices: [
         {title:'Search a video and download'},
         {title:'Search videos and download on bulk'},
-        {title:'Download video by id Coming soon', disabled},
-        {title: 'Settings Coming soon', disabled}
+        {title:'Download video by id Coming soon', disabled: true},
+        {title: 'Settings Coming soon', disabled: true}
        ]
   })
     // Selector the menu principal
