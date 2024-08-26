@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.7.4",
+    "progress-estimator": "^0.3.1",
+    "prompts": "^2.4.2",
+    "youtube-dl-exec": "^3.0.7",
+    "youtube-search-api": "^1.2.2"
+  }
+}
