@@ -6,17 +6,17 @@
 To install the project, follow these steps:
 
 1. Clone the repository to your local machine.
-        ```shell
+        ```
         git clone https://github.com/kikf/Youtube-downloader.git
         ```
 
 2. Navigate to the project directory.
-        ```shell
+        ```
         cd youtube-downloader
         ```
 
 3. Install the required dependencies.
-        ```shell
+        ```
         npm install
         ```
 
@@ -25,7 +25,7 @@ To install the project, follow these steps:
 To use the project, follow these steps:
 
 1. Run the application.
-        ```shell
+        ```
         node .
         ```
 
